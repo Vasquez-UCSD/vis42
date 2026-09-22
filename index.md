@@ -79,43 +79,28 @@ At the end of the course, students will be able to:
 
 | Week | Day | Lesson | Topics |
 | --- | --- | --- | --- |
-| **Week 1** | Tuesday 9/29 | 1 | What is creative code?; Why p5? <br> jupyter lite // p5 web editor; submitting homework; |
+| **Week 1** | Tuesday | 1 | What is creative code?; Why p5? <br> jupyter lite // p5 web editor; submitting homework; |
 | | | 2 | 2D coordinate plane; using p5 drawing functions; shapes; colors; custom shapes |
-| | Thursday 10/1| 3 | variables; operators; conditional statements (if); built-in variables (mouseX, mouseY, width, height); |
+| | Thursday| 3 | variables; operators; conditional statements (if); built-in variables (mouseX, mouseY, width, height); |
 | | |  4 | arc() and map(); additional built-in variables (mouseIsPressed, keyIsPressed); if else; if/else if; |
-| **Week 2** | Tuesday 10/6 | 5 | complex conditionals (&&, \|\|, etc.); more map(); basic images (loadImage(), image()); |
+| **Week 2** | Tuesday| 5 | complex conditionals (&&, \|\|, etc.); more map(); basic images (loadImage(), image()); |
 |  |  | 6 | GIFs and tint(); random(); mousePressed(); |
-|  | Thursday 10/8 | 7 | intro to loops; for loops; iteration; |
+|  | Thursday | 7 | intro to loops; for loops; iteration; |
 |  | | 8 | nested loops; complex visual patterning; patterning images |
-| **Week 3** | Tuesday 10/13 | 9 | Arrays; random() selection; looping over arrays; systems of visual choices |
+| **Week 3** | Tuesday | 9 | Arrays; random() selection; looping over arrays; systems of visual choices |
 |  | | 10 | Images as arrays of pixels; Transforms; mind-mapping |
-|  | Thursday 10/15 | 11 | more transformations: translate, rotate, scale; push() and pop(); |
+|  | Thursday | 11 | more transformations: translate, rotate, scale; push() and pop(); |
 |  | | | Individual Check-Ins |
-| **Week 4** | Tuesday 10/20 | | **Midterm critique/presentations**; |
+| **Week 4** | Tuesday | | **Midterm critique/presentations**; |
 |  | | 12 | Introduction to 3D; 3d shapes and transforms |
-|  | Thursday 10/22 | 13 | 3D: advanced (lights, materials, loading models);|
+|  | Thursday | 13 | 3D: advanced (lights, materials, loading models);|
 |  | | 14 | Video (finding, adding, and using video methods); 3D advanced and video |
-| **Week 5** | Tuesday 10/27 | 15 | P5 sound library; amplitude |
+| **Week 5** | Tuesday | 15 | P5 sound library; amplitude |
 | | | 16 | DOM and html5; |
-|  | Thursday 10/29 | 17 | 3D: advanced (lights, materials, loading models);|
-|  | | 18 | Video (finding, adding, and using video methods); 3D advanced and video |
-| **Week 6** | Tuesday 11/3 | 19 | P5 sound library; amplitude |
-| | | 20 | DOM and html5; |
-|  | Thursday 11/5 | 21 | 3D: advanced (lights, materials, loading models);|
-|  | | 22 | Video (finding, adding, and using video methods); 3D advanced and video |
-| **Week 7** | Tuesday 11/10 | 23 | P5 sound library; amplitude |
-| | | 24 | DOM and html5; |
-|  | Thursday 11/12 | 25 | 3D: advanced (lights, materials, loading models);|
-|  | | 26 | Video (finding, adding, and using video methods); 3D advanced and video |
-| **Week 8** | Tuesday 11/17 | 27 | P5 sound library; amplitude |
-| | | 28 | DOM and html5; |
-|  | Thursday 11/19 | 29 | 3D: advanced (lights, materials, loading models);|
-|  | | 30 | Video (finding, adding, and using video methods); 3D advanced and video |
-| **Week 9** | Tuesday 11/24 | 31 | P5 sound library; amplitude |
-| | | 32 | DOM and html5; |
-| **Final Session** | Thursday 12/3 | 17 | ml5; p5live, spatialp5 |
-| | | 18 | Final Projects - Individual Check-Ins |
-| **End of Grading** | Sunday 12/13 | | All work due end of day (11:59pm) Sunday for partial credit. EMAIL TA to request regrades. |
+| **Final Session** | Thursday | 17 | ml5; p5live, spatialp5 |
+| | | 18 | Final Projects - Individual Check-Ins | 
+| **End of Grading** | Sunday 8/6 | | All work due end of day (11:59pm) Sunday for partial credit. EMAIL TA to request regrades. |
+
 
 <!-- outtakes
 | | | 18 | p5live and spatialp5 |
@@ -207,7 +192,7 @@ Name your sketch and files with appropriate identifying information.
 
 Elements include: 
 
-- Your name: _Firstinitiallastname_ f.ex. _rtwomey_
+- Your name: _Firstinitiallastname_ f.ex. _tvasquez_
 - Assignment name: _proj01_, _lab01_, etc.
 - Optional project name or details: _klee-senecio_
 
