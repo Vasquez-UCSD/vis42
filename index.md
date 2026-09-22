@@ -82,30 +82,28 @@ At the end of the course, students will be able to:
 | Week 0 | Sept 24 | What is creative code?; Why p5? <br> Web editor overview // jupyter lite;  submitting homework |
 | Week 1 | Sept 29 | 2D coordinate plane; using p5 drawing functions; shapes; colors; custom shapes; |
 | | Oct 1 | creating functions; curves(); |
-| Week 2 | Oct 6 | Variables; operators; conditional statements (if); arcs(); |
-| | Oct 8 | if else; if/else if; visual plotting; interactivity functions (mouseX, mouseY, mouseIsPressed); map(); counters and conditions;|
-| Week 3 | Oct 13 | more map(); complex conditionals; basic images; |
+| Week 2 | Oct 6 | variables; operators; conditional statements (if); built-in variables ((mouseX, mouseY, width, height) |
+| | Oct 8 | arc() and map(); additional built-in variables (mouseIsPressed, keyIsPressed); if else; if/else if;|
+| Week 3 | Oct 13 | complex conditionals (&&, \|\|, etc.); more map(); basic images (loadImage(), image()); |
 | | Oct 15 | GIFs and tint(); random(); mousePressed(); | 
-| Week 4 | Oct 20 | for loops |
-| | Oct 22 | nested loops; visual patterning nested; | 
-| Week 5 | Oct 27 | Array, iterating; random() selection; |
-| | Oct 29 | pixels as Array; Array of pictures | 
-| Week 6 | Nov 3 | Transformations: translate, rotate, scale |
-| | Nov 5 |  WORK TIME |
-| Week 7 | Nov 10 | 3D: primitive shapes, coordinate plane |
-| | Nov 12 | 3D: primitive shapes, coordinate plane cont. | 
-| Week 8 | Nov 17 | 3D: advanced (lights, materials, loading models) | 
-| | Nov 19 | Video (finding, adding, and using video methods) | 
-| Week 9 | Nov 24 | P5 sound library - Music Player; create a Music Video - amplitude() |
+| Week 4 | Oct 20 | intro to loops; for loops; iteration |
+| | Oct 22 | nested loops; complex visual patterning; patterning images; | 
+| Week 5 | Oct 27 | Arrays; iterating over arrays; random() selection|
+| | Oct 29 | Images as arrays of pixels; Transforms; | 
+| Week 6 | Nov 3 | Transformations: translate, rotate, scale; push() and pop() |
+| | Nov 5 |  Midterm critique/laptop presentations; Introduction to 3D; primitive shapes, coordinate plane |
+| Week 7 | Nov 10 | 3D: advanced (lights, materials, loading models) |
+| | Nov 12 |  Video (finding, adding, and using video methods); 3D advanced and video | 
+| Week 8 | Nov 17 | P5 sound library; amplitude; | 
+| | Nov 19 | VOM and html5  | 
+| Week 9 | Nov 24 | deep dive on ml5, p5live and spatialp5 |
 | | Nov 26 | NO CLASS - THANKSGIVING | 
-| Week 10 | Dec 1 | DOM and html5 |
-| | Dec 3 | p5-notebook (jupyterlite) to html and web IDE; Presenting work through web; Choose a project to post to class website vis42.org | 
+| Week 10 | Dec 1 | Presenting work through web; p5-notebook (jupyterlite) to html and web IDE; |
+| | Dec 3 | Final Projects - In Class Showing | 
 | Finals Week | Dec 6 | All late work due end of day (11:59pm) Sunday for partial credit. EMAIL TA to request regrades. |
-| | Dec 8 | Project 10 due end of day (11:59pm) Tuesday. No class meeting |
 
 
 <!-- outtakes
-| | | 18 | p5live and spatialp5 |
 lecXX - creating functions; curves(); 
 
 OOP or other advanced topics 
