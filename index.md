@@ -23,8 +23,8 @@ This course provides students with a foundation in programming and computational
 
 - **Instructor**: Travis Vasquez
 - **Class**: Tu/Th 12:30-1:50 PM
-- **Location**: Zoom (link is on Canvas)
-- **Office Hours**: TBD likely Friday 5-6pm on zoom/discord
+- **Location**: Solis Hall Room 104
+- **Office Hours**: Zoom (link is on Canvas) TBD likely Friday 5-6pm on zoom/discord
 
 ## Teaching Team
 - **Graduate TA**: Heige Kim
